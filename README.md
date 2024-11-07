@@ -16,7 +16,7 @@ Assess insulator requirements based on voltage and environmental conditions.
 
 Repository Structure
 
-Insulator.m: This script calculates insulator specifications, including required creepage distance, length, and mechanical strength for both U160BS and S248130V5 types.
+Insulator.m: This script calculates insulator specifications, including required creepage distance, length, and mechanical strength for both U160BS and S248130V5 types or some insulator else..
 
 P_50kmMax_Wind.m: Determines the conductor swing and displacement under maximum wind load conditions for a 50 km span.
 
